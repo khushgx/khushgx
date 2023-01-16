@@ -4,8 +4,8 @@ I am an incoming freshman in the Jerome Fisher Program in Management and Technol
 * 🌍  I'm based in Frisco, TX
 * 🖥️  See my portfolio at [my website](http://https://khushgx.wixsite.com/khushg) 
 * ✉️  You can contact me at [khushgx@gmail.com](mailto:khushgx@gmail.com) 
-* 🧠  I'm learning React.js 
-* 🤝  I'm open to collaborating on any java, data science/ml/ai, or web dev projects. Just contact me!
+* 🧠  I'm learning LLM's
+* 🤝  I'm open to collaborating on any java, data science/ml/ai, or web3 projects. Just contact me!
 
 ### Skills
 

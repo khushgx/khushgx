@@ -1,6 +1,6 @@
 Hi 👋 My name is Khush Gupta 
 ============================  
-I am an incoming freshman in the Jerome Fisher Program in Management and Technology (M&T) at the University of Pennsylvania intending to study at the Wharton School and Computer Science in the School of Engineering and Applied Science.  
+I am a freshman in the Jerome Fisher Program in Management and Technology (M&T) at the University of Pennsylvania intending to study at the Wharton School and Computer Science in the School of Engineering and Applied Science.  
 * 🌍  I'm based in Frisco, TX
 * 🖥️  See my portfolio at [my website](http://https://khushgx.wixsite.com/khushg) 
 * ✉️  You can contact me at [khushgx@gmail.com](mailto:khushgx@gmail.com) 

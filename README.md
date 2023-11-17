@@ -1,11 +1,11 @@
 Hi 👋 My name is Khush Gupta 
 ============================  
-I am a student in the Jerome Fisher Program in Management and Technology (M&T) at the University of Pennsylvania studying Finance/Stat at the Wharton School and Computer Science in the School of Engineering and Applied Science.  
+I am a student in the Jerome Fisher Program in Management and Technology (M&T) at the University of Pennsylvania studying Finance/Stat at the Wharton School and Computer Science in the School of Engineering and Applied Science. 
 * 🌍  I'm based in Philadelphia, PA
 * 🖥  Check out [this open source package i've been working on](https://github.com/discus-labs/discus-synthetics)
-* ✉️  You can contact me at [khushgx@gmail.com](mailto:khushgx@gmail.com) 
+* ✉️  You can contact me at [khushgx@gmail.com](mailto:khushgx@gmail.com)
 * 🧠  I'm currently building, keep a look out!
-* 🤝  I'm open to collaborating on any java, data science/ml/ai, or web3 projects. Just contact me!
+* 🤝  Check out my website for more info and contacts! [](https://khushg.vercel.app/)
 
 ### Skills
 

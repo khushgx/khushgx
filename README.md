@@ -5,7 +5,7 @@ I am a student in the Jerome Fisher Program in Management and Technology (M&T) a
 * 🖥  Check out [this open source package i've been working on](https://github.com/discus-labs/discus-synthetics)
 * ✉️  You can contact me at [khushgx@gmail.com](mailto:khushgx@gmail.com)
 * 🧠  I'm currently building, keep a look out!
-* 🤝  Check out my website for more info and contacts! [](https://khushg.vercel.app/)
+* 🤝  Check out my website for more info and contacts! [https://khushg.vercel.app/](https://khushg.vercel.app/)
 
 ### Skills
 
